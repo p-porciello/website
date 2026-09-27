@@ -19,7 +19,59 @@ plugins:
   - jekyll-seo-tag
   
 authors:
- 
+  evie:
+      name:           Evie Shen
+      avatar:         /assets/images/avatars/anonymous.jpg
+      role:           Editor-in-Chief
+      bio:            "Evie Shen is a senior at Magnet High School and Content Editor-in-Chief of Newspaper Club. She joined Newspaper Club due to her love for reading and writing and hopes to increase the impact and voices of the club members’ pieces. In her free time, she enjoys reading, dancing, and playing with her two kittens."
+      email:          eshen2@ucvts.org
+      school:         Magnet
+      grade:          Senior
+
+  lillian:
+      name:           Lillian Yu
+      avatar:         /assets/images/avatars/anonymous.jpg
+      role:           Editor-in-Chief
+      bio:            "Lillian Yu is a junior at Magnet High School. She loves reading and enjoys learning new things. In her free time, she bakes and takes care of her houseplants, her favorite being the monstera. In the future, Lillian wants to go into engineering, with an interest in civil engineering specifically."
+      email:          lyu@ucvts.org
+      school:         Magnet
+      grade:          Junior
+
+  paige:
+      name:           Paige Porciello
+      avatar:         /assets/images/avatars/anonymous.jpg
+      role:           Editor-in-Chief
+      bio:            "Paige is proud to serve as your Layout EIC this year!  She does color guard, volunteers at an observatory, codes often (also serving as co-President of Coding Club), pet-sits for her neighbors, and is skilled in visual arts.  One fun fact about her is that her last name is derived from an insult.  She hopes to pursue a career in astrophysics and frequently writes about astronomy news and concepts for the Campus Chronicle."
+      email:          pporciello@ucvts.org
+      school:         AIT
+      grade:          Senior
+
+  amelia:
+      name:           Amelia Hajduk
+      avatar:         /assets/images/avatars/anonymous.jpg
+      role:           Editor-in-Chief
+      bio:            "Amelia Hajduk is a senior at the Academy for Performing Arts and serves as the Co-Editor-in-Chief of the Literary Magazine, Student Voices. She has a great passion for journalism, and is grateful for the opportunity to oversee this creative process. Outside of Newspaper Club, she loves reading, writing, traveling, and stage managing productions."
+      email:          ahajduk@ucvts.org
+      school:         APA
+      grade:          Senior
+
+  adrija:
+      name:           Adrija Adhikary
+      avatar:         /assets/images/avatars/anonymous.jpg
+      role:           Editor-in-Chief
+      bio:            "Adrija Adhikary is a junior at Magnet High School who serves as the Editor-in-Chief of Student Voices, the campus literary magazine. Outside of curating student poetry and prose, she is deeply passionate about her own creative writing, dabbling in poems and short stories on various topics. An avid reader with a perpetually overflowing 'to-read' pile, Adrija spends her free time hunting for writing prompts on Pinterest and searching the local library catalog for interesting book titles. She is thrilled to publish Student Voices this year and can’t wait to showcase the incredible talent and diverse voices of the UCVTS community."
+      email:          aadhikary@ucvts.org
+      school:         Magnet
+      grade:          Junior
+
+  sharika:
+      name:           Sharika Dhar
+      avatar:         /assets/images/avatars/anonymous.jpg
+      role:           Editor-in-Chief
+      bio:            "Sharika Dhar is a senior at Allied Health and is so excited to serve as Public Relations Editor-in-Chief! Sharika joined Newspaper in her freshman year to grow her passion for journalism. She enjoys working with other writers and helping them find their voice. In her free team, she loves biking, working out, playing with her dog, and listening to music!"
+      email:          sdhar@ucvts.org
+      school:         AAHS
+      grade:          Senior
         
 # Defaults
 defaults:
