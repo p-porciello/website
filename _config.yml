@@ -72,6 +72,15 @@ authors:
       email:          sdhar@ucvts.org
       school:         AAHS
       grade:          Senior
+
+  saidey:
+      name:           Saidey Kim
+      avatar:         /assets/images/avatars/anonymous.jpg
+      role:           Editor-in-Chief
+      bio:            "Saidey Kim is a junior at the Academy for Allied Health Sciences and serves as one of the Public Relations Editors-in-Chief. She is passionate about writing, journalism, and staying informed about current events. In her free time, Saidey enjoys reading, writing, following the news, and playing tennis. She looks forward to contributing to the Campus Chronicle and helping share stories that keep the UCVTS community informed."
+      email:          skim1@ucvts.org
+      school:         AAHS
+      grade:          Junior
         
 # Defaults
 defaults:
